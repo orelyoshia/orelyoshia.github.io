@@ -1,8 +1,8 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
+author: "Orel Yoshia"
 date: "2023-01-24"
-categories: [news, code, analysis]
+categories: [Education, code, analysis]
 image: "image.jpg"
 ---
 

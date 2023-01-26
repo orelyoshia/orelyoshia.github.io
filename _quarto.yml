@@ -3,6 +3,18 @@ project:
 
 website:
   title: "Orel Yoshia"
+  
+  favicon: images/oy_headshot.jfif
+  
+  page-footer:
+    center: |
+      <span class="container"><strong>[Contact Orel Yoshia](mailto:orelyoshia11@gmail.com){target="_blank"}</strong></span>
+    left: |
+      <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
+    right: |
+      <span class="container"><strong>[Github Repo](https://github.com/orelyoshia/orelyoshia.github.io){target="_blank"}</strong></span>
+    background: "#004E4F"
+  
   navbar:
     left:
       - text: Home
@@ -12,15 +24,29 @@ website:
       - text: Resume
         href: resume.qmd
     right:
-      - index.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/orelyoshia
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/orelyoshia
+      - icon: linkedin
+        href: https://linkedin.com/in/orel-yoshia
+
+  search: 
+    location: navbar
+    type: overlay
+
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, theme_light_custom.scss]
+      dark: [cosmo, theme_dark_custom.scss]
     css: styles.css
+    citations-hover: true
+    code-link: true
+    code-fold: show
+    code-tools: false
+    code-block-border-left: "#004E4F"
+    
 
-
-
+    
+editor: visual
