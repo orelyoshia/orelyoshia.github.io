@@ -10,10 +10,10 @@ website:
     center: |
       <span class="container"><strong>[Contact Orel Yoshia](mailto:orelyoshia11@gmail.com){target="_blank"}</strong></span>
     left: |
-      <span class="container"><strong>Made with [Posit Quarto](https://quarto.org/){target="_blank"}</strong></span>
+      <span class="container"><strong>Made with 💜 [Quarto](https://quarto.org/){target="_blank"}</strong></span>
     right: |
       <span class="container"><strong>[Github Repo](https://github.com/orelyoshia/orelyoshia.github.io){target="_blank"}</strong></span>
-    background: "#004E4F"
+    background: "#b1d6e1"
   
   navbar:
     left:
@@ -23,6 +23,8 @@ website:
         href: projects.qmd
       - text: Resume
         href: resume.qmd
+      - text: Quarto Resume
+        href: qresume.qmd
     right:
       - icon: github
         href: https://github.com/orelyoshia
@@ -45,7 +47,7 @@ format:
     code-link: true
     code-fold: show
     code-tools: false
-    code-block-border-left: "#004E4F"
+    code-block-border-left: "#b1d6e1"
     
 
     

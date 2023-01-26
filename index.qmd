@@ -2,7 +2,7 @@
 title: "Orel Yoshia"
 image: images/oy_headshot.jfif
 about:
-    template: jolla
+    template: trestles
     image-width: 20em
     image-shape: round
     links:
@@ -21,6 +21,14 @@ about:
 ---
 
 
+</center>
+
+::: {#hero-heading}
+
 I am an Institutional Research Analyst at Florida Polytechnic University. I work with University related data and create and analyze reports internally and externally. I am also the Data Cookbook Administrator at Florida Poly and have implemented a central repository of data definitions and a data governance tool.
 
 I am also an adjunct Professor and have taught 2 Sections of Introduction to Data Science and 1 Section of Cloud Infrastructure & Services
+
+I'm a recent Master's Graduate from Florida Polytechnic University, in Computer Science - Data Science Track. My research was in Course Curriculum and Network Modeling. 
+
+:::
