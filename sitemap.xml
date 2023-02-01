@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://orelyoshia.github.io/about.html</loc>
-    <lastmod>2023-01-26T03:27:29.652Z</lastmod>
+    <lastmod>2023-02-01T00:53:50.127Z</lastmod>
   </url>
   <url>
     <loc>https://orelyoshia.github.io/index.html</loc>
-    <lastmod>2023-01-26T03:27:30.212Z</lastmod>
+    <lastmod>2023-02-01T00:53:50.800Z</lastmod>
   </url>
   <url>
     <loc>https://orelyoshia.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2023-01-26T03:27:30.944Z</lastmod>
+    <lastmod>2023-02-01T00:53:51.533Z</lastmod>
   </url>
   <url>
     <loc>https://orelyoshia.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-01-26T03:27:31.555Z</lastmod>
+    <lastmod>2023-02-01T00:53:52.134Z</lastmod>
   </url>
   <url>
     <loc>https://orelyoshia.github.io/projects.html</loc>
-    <lastmod>2023-01-26T03:27:32.238Z</lastmod>
+    <lastmod>2023-02-01T00:53:53.073Z</lastmod>
+  </url>
+  <url>
+    <loc>https://orelyoshia.github.io/qresume.html</loc>
+    <lastmod>2023-02-01T00:53:59.143Z</lastmod>
   </url>
   <url>
     <loc>https://orelyoshia.github.io/resume.html</loc>
-    <lastmod>2023-01-26T03:27:32.808Z</lastmod>
+    <lastmod>2023-02-01T00:53:59.688Z</lastmod>
   </url>
 </urlset>
