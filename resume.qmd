@@ -3,3 +3,5 @@
   height="800" 
   src="images/Orel_Yoshia_Resume.pdf">
 </iframe>
+
+![](images/Orel_Yoshia_Resume.png){width=100%}
