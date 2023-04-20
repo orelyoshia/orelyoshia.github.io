@@ -1,12 +1,11 @@
 ---
-title: "Welcome To My Blog"
+title: "Growth of MS Degrees in Data Science and Business Analytics"
 author: "Orel Yoshia"
-date: "2023-01-21"
-categories: [news]
+date: "2021-12-10"
+categories: [Spatial visualization, map, degree]
 ---
 
-This is the first post in a Quarto blog. Welcome!
 
-![](thumbnail.jpg)
+![](interactive_map.png)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+In this project I was able to create an interactive plot, a spatial visualization, and a Topic Model using LDA. All of these visualizations were made to see the growth of Analytics, Business Analytics, Data Analytics, and Data Science MS Degrees. The map can also allow anyone to sort through about 300 schools and click their degree page based on location of the university and what subject they are interested in. I created my own dataset based on findings from "https://analytics.ncsu.edu/?page_id=4184".

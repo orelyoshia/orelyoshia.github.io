@@ -1,9 +1,10 @@
 ---
-title: "Post With Code"
+title: "Master's Project"
 author: "Orel Yoshia"
-date: "2023-01-24"
-categories: [Education, code, analysis]
-image: "image.jpg"
+date: "2022-04-27"
+categories: [Curriculum, Network Modeling, Analysis]
+image: "Blooms-Taxonomy.png"
 ---
 
-This is a post with executable code.
+Application of Network Models to Assist in Data Science
+Curriculum Using Program and Course Learning Outcomes
