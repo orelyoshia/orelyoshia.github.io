@@ -16,7 +16,7 @@ knitr:
 
 ::: columns
 ::: {.column .aside width="25%"}
-<center><a href='https://orelyoshia.github.io/' target='_blank'> ![](images/oy_headshot.jfif){width="80%" style="border-radius: 50%;"}</center>
+<center><a href='https://orelyoshia.github.io/' target='_blank'> ![](images/oy_headshot.jfif){width="25%" style="border-radius: 50%;"}</center>
 
 </a>
 
