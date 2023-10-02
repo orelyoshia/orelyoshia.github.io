@@ -11,34 +11,48 @@
     "href": "index.html",
     "title": "Orel Yoshia",
     "section": "",
-    "text": "I am an Institutional Research Analyst at Florida Polytechnic University. I work with University related data and create and analyze reports internally and externally. I am also the Data Cookbook Administrator at Florida Poly and have implemented a central repository of data definitions and a data governance tool.\nI am also an adjunct Professor and have taught 2 Sections of Introduction to Data Science and 1 Section of Cloud Infrastructure & Services\nI’m a recent Master’s Graduate from Florida Polytechnic University, in Computer Science - Data Science Track. My research was in Course Curriculum and Network Modeling."
+    "text": "I’m an Institutional Research Analyst, adjunct professor, and recent Master’s graduate focusing on data analysis and visualizations. I love story telling with my visualizations and sharing my passion for data."
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Master’s Project",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Application of Network Models to Assist in Data Science Curriculum Using Program and Course Learning Outcomes"
   },
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
+<<<<<<< HEAD
     "title": "Embracing Accountability, Discovering Data Science, and Sharing My Journey",
     "section": "",
     "text": "Hello, and welcome to my personal corner of the internet! I’m excited to kick off my blogging journey by sharing a bit about myself, my transformative experience in data science, and why I’m so passionate about it. This blog isn’t just about data; it’s about storytelling with data, sharing my love for data science, and embracing accountability to keep pushing the boundaries of what I can achieve.\nFrom Computer Science to Data Science: A Personal Evolution:\nAs a fresh computer science graduate with a focus on cybersecurity, I initially thought I had found my calling. However, as time passed, I realized that something was missing. While I respected the field, it didn’t ignite that unmistakable spark of passion within me. I knew I somewhat liked coding but when I took a statistics course, I felt like that was more of the path I wanted to take.\nIt wasn’t until I embarked on my journey toward a Master’s in Data Science that I discovered my true calling. The world of data analysis, visualization, and storytelling became my newfound love. I realized that my heart resonated with the power of data, its stories, and the insights waiting to be unlocked.\nMy Passion for Storytelling with Data:\nOne of the things that fuels my passion for data science is the art of storytelling with data. It’s not just about numbers and figures; it’s about crafting narratives that make data come alive. Whether it’s unraveling the secrets of Black Friday shopping patterns or creating a tool to help people find their perfect perfume or cologne based on their style, I revel in the creative process of turning data into stories that engage, inform, and inspire.\nA Glimpse into My Projects:\nMany of my projects in the classroom revolved around analyzing course curricula and exploring different degrees throughout the United States. It was during these projects that I honed my skills and discovered the beauty of data analysis. I have also delved into the fascinating world of Black Friday shopping behavior. The patterns, trends, and insights that emerge from this data are both intriguing and valuable. I can’t wait to share more about this project with you in future posts.\nOne project, in particular, has captured my heart and will be a focus of my future endeavors:\n\nPerfume and Cologne Selection Tool: Selecting the perfect scent can be an overwhelming task. I’ve been working on a tool that helps you find fragrances that match your style and personality. Stay tuned as I expand on this project, sharing tips and insights on scent selection.\n\nEmbracing Accountability and My Website’s Mission:\nThis website and, more importantly, these blog posts, serve as my accountability partners. They are a commitment to continue working on my personal projects and to keep sharing my passion for data, data analysis, and data science with all of you.\nI invite you to join me on this journey. Let’s explore the fascinating world of data together, break down complex concepts, and turn data into stories that inspire and inform. I can’t wait to hear your thoughts, questions, and experiences along the way.\nThank you for being a part of my inaugural blog post. Together, we’ll embrace accountability, dive deeper into data science, and embark on an exciting journey of discovery and creativity. Let’s make data not just informative, but also inspiring and fun.\nI’d love to hear from you! Feel free to share your own experiences with data or if you would ever like to collaborate on anything in the future. You can message me on LinkedIn, and let’s embark on this data-driven adventure together."
+=======
+    "title": "Growth of MS Degrees in Data Science and Business Analytics",
+    "section": "",
+    "text": "In this project I was able to create an interactive plot, a spatial visualization, and a Topic Model using LDA. All of these visualizations were made to see the growth of Analytics, Business Analytics, Data Analytics, and Data Science MS Degrees. The map can also allow anyone to sort through about 300 schools and click their degree page based on location of the university and what subject they are interested in. I created my own dataset based on findings from “https://analytics.ncsu.edu/?page_id=4184”."
+>>>>>>> c149d0371702545ff201741cb7db6e2ab4cba00d
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
+<<<<<<< HEAD
     "text": "Embracing Accountability, Discovering Data Science, and Sharing My Journey\n\n\n\n\n\n\n\nWelcome\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\nOrel Yoshia\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nEducation\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJan 24, 2023\n\n\nOrel Yoshia\n\n\n\n\n\n\nNo matching items"
+=======
+    "text": "Master’s Project\n\n\n\n\n\n\n\nCurriculum\n\n\nNetwork Modeling\n\n\nAnalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 27, 2022\n\n\nOrel Yoshia\n\n\n\n\n\n\n  \n\n\n\n\nGrowth of MS Degrees in Data Science and Business Analytics\n\n\n\n\n\n\n\nSpatial visualization\n\n\nmap\n\n\ndegree\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2021\n\n\nOrel Yoshia\n\n\n\n\n\n\nNo matching items"
+>>>>>>> c149d0371702545ff201741cb7db6e2ab4cba00d
   },
   {
     "objectID": "qresume.html",
     "href": "qresume.html",
     "title": "Orel Yoshia",
     "section": "",
+<<<<<<< HEAD
     "text": "::: columns ::: {.column .aside width=“25%”}\n\n \n\n\n\nContact\n\n   \n\nHi! I’m an Institutional Research Analyst at Florida Polytechnic University since 2021. I am also an Adjunct Professor and LOVE to teach!\n\n\nTeaching\n Intro to Data Science FPU.   Cloud Infrastructure & Services FPU.\n\n\nLanguages\nEnglish: Native  Hebrew: Proficient\n\n\nProgramming skills\n R   tidyverse   RMarkdown / Quarto   Git   GitHub   Markdown :::\n\n\n\n\n\n\n:::\n\n\nResume made with 💜 and Quarto. Last updated on Apr 18, 2023.  Code available on  GitHub"
+=======
+    "text": "::: columns ::: {.column .aside width=“25%”}\n\n \n\n\n\nContact\n\n   \n\nHi! I’m an Institutional Research Analyst at Florida Polytechnic University since 2021. I am also an Adjunct Professor and LOVE to teach!\n\n\nTeaching\n Intro to Data Science FPU.   Cloud Infrastructure & Services FPU.\n\n\nLanguages\nEnglish: Native  Hebrew: Proficient\n\n\nProgramming skills\n R   tidyverse   RMarkdown / Quarto   Git   GitHub   Markdown :::\n\n\n\n\n\n\n:::\n\n\nResume made with 💜 and Quarto. Last updated on Apr 19, 2023.  Code available on  GitHub"
+>>>>>>> c149d0371702545ff201741cb7db6e2ab4cba00d
   }
 ]

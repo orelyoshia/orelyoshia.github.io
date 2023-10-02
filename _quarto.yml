@@ -23,8 +23,8 @@ website:
         href: projects.qmd
       - text: Resume
         href: resume.qmd
-      - text: Quarto Resume
-        href: qresume.qmd
+     # - text: Quarto Resume
+        #href: qresume.qmd
     right:
       - icon: github
         href: https://github.com/orelyoshia

@@ -14,43 +14,43 @@ knitr:
 
 <!-- Sidebar -->
 
-::: columns
 ::: {.column .aside width="25%"}
+
 <center><a href='https://orelyoshia.github.io/' target='_blank'> ![](images/oy_headshot.jfif){width="25%" style="border-radius: 50%;"}</center>
+
+<center><a href='https://orelyoshia.github.io/' target='_blank'> ![](images/oy_headshot.jfif){width="30%" style="border-radius: 50%;"}</center>
 
 </a>
 
 ### Contact
 
-<center><span style="font-size: 1.5em;"> <a href='https://orelyoshia.github.io/' target='_blank'><i class="fa fa-home"></i></a> <a href='https://github.com/orelyoshia' target='_blank'><i class="fa-brands fa-github"></i></a> <a href='mailto:orelyoshia11@gmail.com'><i class="fa fa-envelope"></i></a> 
+<center>
+
+<span style="font-size: 1.5em;"> <a href='https://orelyoshia.github.io/' target='_blank'><i class="fa fa-home"></i></a> <a href='https://github.com/orelyoshia' target='_blank'><i class="fa-brands fa-github"></i></a> <a href='mailto:orelyoshia11@gmail.com'><i class="fa fa-envelope"></i></a>
 
 </span>
 
 Hi! I'm an Institutional Research Analyst at [Florida Polytechnic University](https://floridapoly.edu/) since 2021. I am also an Adjunct Professor and LOVE to teach!
 
-
 ### Teaching
 
-<i class="fas fa-chalkboard-teacher"></i> [`Intro to Data Science` FPU](http://floridapolytechnic.catalog.acalog.com/preview_program.php?catoid=26&poid=1126). <br> <i class="fas fa-chalkboard-teacher"></i> [`Cloud Infrastructure & Services` FPU  ](http://floridapolytechnic.catalog.acalog.com/preview_program.php?catoid=26&poid=1126).
+<i class="fas fa-chalkboard-teacher"></i> [`Intro to Data Science` FPU](http://floridapolytechnic.catalog.acalog.com/preview_program.php?catoid=26&poid=1126). <br> <i class="fas fa-chalkboard-teacher"></i> [`Cloud Infrastructure & Services` FPU](http://floridapolytechnic.catalog.acalog.com/preview_program.php?catoid=26&poid=1126).
 
 ### Languages
 
 **English:** Native <br> **Hebrew:** Proficient
 
-
 ### Programming skills
 
-<i class="fab fa-r-project"></i> `R` <br> <i class="fa fa-area-chart" aria-hidden="true"></i> `tidyverse` <br> <i class="fab fa-markdown"></i> `RMarkdown / Quarto` <br> <i class="fas fa-code-branch"></i> `Git` <br> <i class="fab fa-github"></i> `GitHub` <br> <i class="fab fa-markdown"></i> `Markdown`
-:::
+<i class="fab fa-r-project"></i> `R` <br> <i class="fa fa-area-chart" aria-hidden="true"></i> `tidyverse` <br> <i class="fab fa-markdown"></i> `RMarkdown / Quarto` <br> <i class="fas fa-code-branch"></i> `Git` <br> <i class="fab fa-github"></i> `GitHub` <br> <i class="fab fa-markdown"></i> `Markdown` :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="70%"}
 <!-- Functions -->
-
-
 :::
+
 :::
 
 <!-- footer -->
