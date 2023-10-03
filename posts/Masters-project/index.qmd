@@ -1,0 +1,29 @@
+---
+title: "Application of Network Models to Assist in Data Science Curriculum Using Program and Course Learning Outcomes"
+author: "Orel Yoshia"
+date: "2022-04-27"
+categories: [Curriculum, Network Modeling, Analysis, Educational Mapping, Learning Outcomes]
+image: "Blooms-Taxonomy.png"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Abstract
+
+Creating a robust curriculum is key to ensuring success in an academic
+degree. This paper provides insight into the use of data science tools
+to enhance curriculum mapping in higher education. Using course learning
+outcomes and program (degree) learning outcomes, a network map is
+produced to ensure synthesized outcomes that can allow for great success
+of a program and enforce student education. Based off this project,
+different departments and universities can obtain insightful information
+about their own curriculum and how successful their curriculum mapping
+is. Students can also benefit from seeing the way course learning
+outcomes map to their program learning outcomes which could guide them
+through their studies and future careers.
+
+## Publication
+
+You can find this paper published in the [IEOM Orlando 2022
+Proceedings](https://ieomsociety.org/proceedings/2022orlando/490.pdf)

@@ -21,6 +21,8 @@ website:
         href: index.qmd
       - text: Projects
         href: projects.qmd
+      - text: Blog
+        href: blogs.qmd 
       - text: Resume
         href: resume.qmd
      # - text: Quarto Resume
