@@ -2,9 +2,14 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/posts/welcome/index.html",
-      "/posts/post-with-code/index.html",
+      "/posts/Masters-project/index.html",
       "/posts/growth-of-ms-degrees/index.html"
+    ]
+  },
+  {
+    "listing": "/blogs.html",
+    "items": [
+      "/blogs/welcome/index.html"
     ]
   }
 ]
